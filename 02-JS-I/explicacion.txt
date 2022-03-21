@@ -1,0 +1,12 @@
+Variables: almacenan valores de distintos tipos, dichos valores se asignan con el signo = . Además se le coloca un nombre con el cual luego podemos "llamarla" y hacer referencia a ella.
+
+String: es una cadena de caracteres, definidas siempre entre comillas.
+
+Funciones: es un objeto que puede llamarse para realizar una tarea concreta, nos ahorra código y tiempo cuando nesecitamos repetir una serie de acciones. También se le asigna un nombre.
+Para declarar una funcion se debe respetar una sintaxis:
+*utilizar la palabra clave function, seguido el nombre que le asignamos para invocarla y a continuación parentesis y llaves. Dentro de los parentesis se colocan variables que son argumentos de la función (cada uno va separado por una coma). Y dentro de las llaves se colocan instrucciones que pertenecen a dicha función.
+Las funciones reciben variables y datos pero tambien pueden devolver valores. Para que esto ocurra hay que utilizar la palabra clave return.
+
+Declaraciones if: se usa para tomar decisiones. if es un condicional que significa "si", por ejemplo si se cumple una expresión se realiza una determinada acción y de no cumplirse otra.
+
+Valores booleanos: en JS es lógica booleana que puede ser true o false (para activar o desactivar).
