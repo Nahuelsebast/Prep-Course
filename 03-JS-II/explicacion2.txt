@@ -1,0 +1,9 @@
+for : es un bucle que ejecuta una acción repetitivamente, va evaluando una expresión hasta que se cumple una cierta condición y se detiene.
+En la sintaxis se utiliza la palabra clave for seguida de paréntesis y las llaves. Dentro de los paréntesis: se declara una variable, se coloca una expresion condicional y por último se incrementa la variable. Todo esto separado por punto y coma.
+De esta manera, se repetira la acción hasta que la expresión condicional sea false.
+
+&& , || , ! : son operadores de lógicos que se usan para evaluar expresiones y realizar una determinada acción.
+
+&& "AND" evalua 2 expresiones y devolvera true si ambas son verdaderas, caso contrario será false.
+|| "OR" evalua 2 expresiones y devolvera true si ambas son verdaderas o alguna de las dos lo es. Solo devolverá false si las dos lo son.
+! "NOT" devuelve el valor booleano opuesto al que lee. Si es false devolverá true y si es true devolverá false.
